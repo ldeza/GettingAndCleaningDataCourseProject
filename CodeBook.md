@@ -15,8 +15,7 @@ The goal of run_analysis.R is as follows:
 
 The features relating to mean and standard deviation has been normalized and bounded within [-1,1]
 
-subject
-&nbsp;1..30 Identifies the subject who performed the activity for each window sample. There are a total of 30 subjects.
+subject1..30 Identifies the subject who performed the activity for each window sample. There are a total of 30 subjects.
 
 activity
     1 WALKING

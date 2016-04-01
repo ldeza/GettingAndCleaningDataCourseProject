@@ -18,154 +18,154 @@ activity
 &nbsp;&nbsp;5 STANDING  
 &nbsp;&nbsp;6 LAYING  
 
-tbodyaccmeanx  
+timebodyaccmeanx  
 &nbsp;&nbsp;-1..1 Mean value of time domain signals body acceleration in the X direction.
 
-tbodyaccmeany  
+timebodyaccmeany  
 &nbsp;&nbsp;-1..1 Mean value of time domain signals body acceleration in the Y direction.
 
-tbodyaccmeanz  
+timebodyaccmeanz  
 &nbsp;&nbsp;-1..1 Mean value of time domain signals body acceleration in the Z direction.
 
-tgravityaccmeanx  
+timegravityaccmeanx  
 &nbsp;&nbsp;-1..1 Mean value of time domain signals gravity acceleration in the X direction.
 
-tgravityaccmeany  
+timegravityaccmeany  
 &nbsp;&nbsp;-1..1 Mean value of time domain signals gravity acceleration in the Y direction.
 
-tgravityaccmeanz  
+timegravityaccmeanz  
 &nbsp;&nbsp;-1..1 Mean value of time domain signals gravity acceleration in the Z direction.
 
-tbodyaccjerkmeanx  
+timebodyaccjerkmeanx  
 &nbsp;&nbsp;-1..1 Mean value of time domain signals body acceleration jerk in X direction.
 
-tbodyaccjerkmeany  
+timebodyaccjerkmeany  
 &nbsp;&nbsp;-1..1 Mean value of time domain signals body acceleration jerk in Y direction.
 
-tbodyaccjerkmeanz  
+timebodyaccjerkmeanz  
 &nbsp;&nbsp;-1..1 Mean value of time domain signals body acceleration jerk in Z direction.
 
-tbodygyromeanx  
+timebodygyromeanx  
 &nbsp;&nbsp;-1..1 Mean value of time domain signals body gyroscope in X direction.
 
-tbodygyromeany  
+timebodygyromeany  
 &nbsp;&nbsp;-1..1 Mean value of time domain signals body gyroscope in Y direction.
 
-tbodygyromeanz  
+timebodygyromeanz  
 &nbsp;&nbsp;-1..1 Mean value of time domain signals body gyroscope in Z direction.
 
-tbodygyrojerkmeanx  
+timebodygyrojerkmeanx  
 &nbsp;&nbsp;-1..1 Mean value of time domain signals body gyroscope jerk in X direction.
 
-tbodygyrojerkmeany  
+timebodygyrojerkmeany  
 &nbsp;&nbsp;-1..1 Mean value of time domain signals body gyroscope jerk in Y direction.
 
-tbodygyrojerkmeanz  
+timebodygyrojerkmeanz  
 &nbsp;&nbsp;-1..1 Mean value of time domain signals in body gyroscope jerk in Z direction.
 
-tbodyaccmagmean  
+timebodyaccmagmean  
 &nbsp;&nbsp;-1..1 Mean value of time domain signals three-dimensional body acceleration magnitude.
 
-tgravityaccmagmean  
+timegravityaccmagmean  
 &nbsp;&nbsp;-1..1 Mean value of time domain signals three-dimensional gravity acceleration magnitude.
 
-tbodyaccjerkmagmean  
+timebodyaccjerkmagmean  
 &nbsp;&nbsp;-1..1 Mean value of time domain signals three-dimensional body acceleration jerk magnitude.
 
-tbodygyromagmean  
+timebodygyromagmean  
 &nbsp;&nbsp;-1..1 Mean value of the time domain signals three-dimensional body gyroscope magnitude.
 
-tbodygyrojerkmagmean  
+timebodygyrojerkmagmean  
 &nbsp;&nbsp;-1..1 Mean value of the time domain signals three-dimentional body gyroscope jerk magnitude.
 
-fbodyaccmeanx  
+frequencybodyaccmeanx  
 &nbsp;&nbsp;-1..1 Mean value of frequency domain signals body acceleration in the X direction.
 
-fbodyaccmeany  
+frequencybodyaccmeany  
 &nbsp;&nbsp;-1..1 Mean value of frequency domain signals body acceleration in the Y direction.
 
-fbodyaccmeanz  
+frequencybodyaccmeanz  
 &nbsp;&nbsp;-1..1 Mean value of frequency domain signals body acceleration in the Z direction.
 
-fbodyaccmeanfreqx  
+frequencybodyaccmeanfreqx  
 &nbsp;&nbsp;-1..1 Mean frequency of frequency domain signals body in the X direction.
 
-fbodyaccmeanfreqy  
+frequencybodyaccmeanfreqy  
 &nbsp;&nbsp;-1..1 Mean frequency of frequency domain signals body in the Y direction.
 
-fbodyaccmeanfreqz  
+frequencybodyaccmeanfreqz  
 &nbsp;&nbsp;-1..1 Mean frequency of frequency domain signals body in the Z direction.
 
-fbodyaccjerkmeanx  
+frequencybodyaccjerkmeanx  
 &nbsp;&nbsp;-1..1 Mean value of frequency domain signals body acceleration jerk in the X direction.
 
-fbodyaccjerkmeany  
+frequencybodyaccjerkmeany  
 &nbsp;&nbsp;-1..1 Mean value of frequency domain signals body acceleration jerk in the Y direction.
 
-fbodyaccjerkmeanz  
+frequencybodyaccjerkmeanz  
 &nbsp;&nbsp;-1..1 Mean value of frequency domain signals body acceleration jerk in the Z direction.
 
-fbodyaccjerkmeanfreqx  
+frequencybodyaccjerkmeanfreqx  
 &nbsp;&nbsp;-1..1 Mean frequency of frequency domain signals body acceleration jerk in the X direction.
 
-fbodyaccjerkmeanfreqy  
+frequencybodyaccjerkmeanfreqy  
 &nbsp;&nbsp;-1..1 Mean frequency of frequency domain signals body acceleration jerk in the Y direction.
 
-fbodyaccjerkmeanfreqz  
+frequencybodyaccjerkmeanfreqz  
 &nbsp;&nbsp;-1..1 Mean frequency of frequency domain signals body acceleration jerk in the Z direction.
 
-fbodygyromeanx  
+frequencybodygyromeanx  
 &nbsp;&nbsp;-1..1 Mean value of freqeuncy domain signals body gyroscope in X direction.
 
-fbodygyromeany  
+frequencybodygyromeany  
 &nbsp;&nbsp;-1..1 Mean value of freqeuncy domain signals body gyroscope in Y direction.
 
-fbodygyromeanz  
+frequencybodygyromeanz  
 &nbsp;&nbsp;-1..1 Mean value of freqeuncy domain signals body gyroscope in Z direction.
 
-fbodygyromeanfreqx  
+frequencybodygyromeanfreqx  
 &nbsp;&nbsp;-1..1 Mean frequency of frequency domain signals body gyroscope in X direction.
 
-fbodygyromeanfreqy  
+frequencybodygyromeanfreqy  
 &nbsp;&nbsp;-1..1 Mean frequency of frequency domain signals body gyroscope in Y direction.
 
-fbodygyromeanfreqz  
+frequencybodygyromeanfreqz  
 &nbsp;&nbsp;-1..1 Mean frequency of frequency domain signals body gyroscope in Z direction.
 
-fbodyaccmagmean  
+frequencybodyaccmagmean  
 &nbsp;&nbsp;-1..1 Mean value of frequency domain signals three-dimensional body acceleration magnitude.
 
-fbodyaccmagmeanfreq  
+frequencybodyaccmagmeanfreq  
 &nbsp;&nbsp;-1..1 Mean frequency of frequency domain signals three-dimensional body acceleration magnitude.
 
-fbodybodyaccjerkmagmean  
+frequencybodybodyaccjerkmagmean  
 &nbsp;&nbsp;-1..1 Mean value of frequency domain signals three-dimensional body acceleration jerk magnitude.
 
-fbodybodyaccjerkmagmeanfreq  
+frequencybodybodyaccjerkmagmeanfreq  
 &nbsp;&nbsp;-1..1 Mean frequency of frequency domain signals three-dimensional body acceleration jerk magnitude.
 
-fbodybodygyromagmean  
+frequencybodybodygyromagmean  
 &nbsp;&nbsp;-1..1 Mean value of frequency domain signals three-dimensional body gyroscope magnitude.
 
-fbodybodygyromagmeanfreq  
+frequencybodybodygyromagmeanfreq  
 &nbsp;&nbsp;-1..1 Mean frequency of frequency domain signals three-dimensional body gyroscope magnitude.
 
-fbodybodygyrojerkmagmean  
+frequencybodybodygyrojerkmagmean  
 &nbsp;&nbsp;-1..1 Mean value of frequency domain signals in three-dimensional body gyroscope jerk magnitude.
 
-fbodybodygyrojerkmagmeanfreq  
+frequencybodybodygyrojerkmagmeanfreq  
 &nbsp;&nbsp;-1..1 Mean frequency of frequency domain signals in three-dimensional body gyroscope jerk magnitude.
 
-angletbodyaccmeangravity  
+angletimebodyaccmeangravity  
 &nbsp;&nbsp;-1..1 Mean gravity value of angular velocity time domain signals three-dimensional body acceleration.
 
-angletbodyaccjerkmeangravitymean  
+angletimebodyaccjerkmeangravitymean  
 &nbsp;&nbsp;-1..1 Mean gravity mean value of angular velocity time domain signals three-dimensional body acceleration jerk.
 
-angletbodygyromeangravitymean  
+angletimebodygyromeangravitymean  
 &nbsp;&nbsp;-1..1 Mean gravity mean value of angular velocity time domain signals three-dimensional body gyroscope.
 
-angletbodygyrojerkmeangravitymean  
+angletimebodygyrojerkmeangravitymean  
 &nbsp;&nbsp;-1..1 Mean gravity mean value of angular velocity time domain signals three-dimensional body gyroscope jerk.
 
 anglexgravitymean  
@@ -177,101 +177,101 @@ angleygravitymean
 anglezgravitymean  
 &nbsp;&nbsp;-1..1 Mean value of angular velocity of gravity mean in the Z direction.
 
-tbodyaccstdx  
+timebodyaccstdx  
 &nbsp;&nbsp;-1..1 Standard deviation of time domain signals body acceleration in the X direction.
 
-tbodyaccstdy  
+timebodyaccstdy  
 &nbsp;&nbsp;-1..1 Standard deviation of time domain signals body acceleration in the Y direction.
 
-tbodyaccstdz  
+timebodyaccstdz  
 &nbsp;&nbsp;-1..1 Standard deviation of time domain signals body acceleration in the Z direction.
 
-tgravityaccstdx  
+timegravityaccstdx  
 &nbsp;&nbsp;-1..1 Standard deviation of time domain signals gravity acceleration in the X direction.
 
-tgravityaccstdy  
+timegravityaccstdy  
 &nbsp;&nbsp;-1..1 Standard deviation of time domain signals gravity acceleration in the Y direction.
 
-tgravityaccstdz  
+timegravityaccstdz  
 &nbsp;&nbsp;-1..1 Standard deviation of time domain signals gravity acceleration in the Z direction.
 
-tbodyaccjerkstdx  
+timebodyaccjerkstdx  
 &nbsp;&nbsp;-1..1 Standard deviation of time domain signals body acceleration jerk in X direction.
 
-tbodyaccjerkstdy  
+timebodyaccjerkstdy  
 &nbsp;&nbsp;-1..1 Standard deviation of time domain signals body acceleration jerk in Y direction.
 
-tbodyaccjerkstdz  
+timebodyaccjerkstdz  
 &nbsp;&nbsp;-1..1 Standard deviation of time domain signals body acceleration jerk in Z direction.
 
-tbodygyrostdx  
+timebodygyrostdx  
 &nbsp;&nbsp;-1..1 Standard deviation of time domain signals body gyroscope in X direction.
 
-tbodygyrostdy  
+timebodygyrostdy  
 &nbsp;&nbsp;-1..1 Standard deviation of time domain signals body gyroscope in Y direction.
 
-tbodygyrostdz  
+timebodygyrostdz  
 &nbsp;&nbsp;-1..1 Standard deviation of time domain signals body gyroscope in Z direction.
 
-tbodygyrojerkstdx  
+timebodygyrojerkstdx  
 &nbsp;&nbsp;-1..1 Standard deviation of time domain signals body gyroscope jerk in X direction.
 
-tbodygyrojerkstdy  
+timebodygyrojerkstdy  
 &nbsp;&nbsp;-1..1 Standard deviation of time domain signals body gyroscope jerk in Y direction.
 
-tbodygyrojerkstdz  
+timebodygyrojerkstdz  
 &nbsp;&nbsp;-1..1 Standard deviation of time domain signals body gyroscope jerk in Z direction.
 
-tbodyaccmagstd  
+timebodyaccmagstd  
 &nbsp;&nbsp;-1..1 Standard deviation of time domain signals three-dimensional body acceleration magnitude.
 
-tgravityaccmagstd  
+timegravityaccmagstd  
 &nbsp;&nbsp;-1..1 Standard deviation of time domain signals three-dimensional gravity acceleration magnitude.
 
-tbodyaccjerkmagstd  
+timebodyaccjerkmagstd  
 &nbsp;&nbsp;-1..1 Standard deviation of time domain signals three-dimensional body acceleration jerk magnitude.
 
-tbodygyromagstd  
+timebodygyromagstd  
 &nbsp;&nbsp;-1..1 Standard deviation of the time domain signals three-dimensional body gyroscope magnitude.
 
-tbodygyrojerkmagstd  
+timebodygyrojerkmagstd  
 &nbsp;&nbsp;-1..1 Standard deviation of the time domain signals three-dimentional body gyroscope jerk magnitude.
 
-fbodyaccstdx  
+frequencybodyaccstdx  
 &nbsp;&nbsp;-1..1 Standard deviation of frequency domain signals body acceleration in the X direction.
 
-fbodyaccstdy  
+frequencybodyaccstdy  
 &nbsp;&nbsp;-1..1 Standard deviation of frequency domain signals body acceleration in the Y direction.
 
-fbodyaccstdz  
+frequencybodyaccstdz  
 &nbsp;&nbsp;-1..1 Standard deviation of frequency domain signals body acceleration in the Z direction.
 
-fbodyaccjerkstdx  
+frequencybodyaccjerkstdx  
 &nbsp;&nbsp;-1..1 Standard deviation of frequency domain signals body acceleration jerk in the X direction.
 
-fbodyaccjerkstdy  
+frequencybodyaccjerkstdy  
 &nbsp;&nbsp;-1..1 Standard deviation of frequency domain signals body acceleration jerk in the Y direction.
 
-fbodyaccjerkstdz  
+frequencybodyaccjerkstdz  
 &nbsp;&nbsp;-1..1 Standard deviation of frequency domain signals body acceleration jerk in the Z direction.
 
-fbodygyrostdx  
+frequencybodygyrostdx  
 &nbsp;&nbsp;-1..1 Standard deviation of freqeuncy domain signals body gyroscope in X direction.
 
-fbodygyrostdy  
+frequencybodygyrostdy  
 &nbsp;&nbsp;-1..1 Standard deviation of freqeuncy domain signals body gyroscope in Y direction.
 
-fbodygyrostdz  
+frequencybodygyrostdz  
 &nbsp;&nbsp;-1..1 Standard deviation of freqeuncy domain signals body gyroscope in Z direction.
 
-fbodyaccmagstd  
+frequencybodyaccmagstd  
 &nbsp;&nbsp;-1..1 Standard deviation of frequency domain signals three-dimensional body acceleration magnitude.
 
-fbodybodyaccjerkmagstd  
+frequencybodybodyaccjerkmagstd  
 &nbsp;&nbsp;-1..1 Standard deviation of frequency domain signals three-dimensional body acceleration jerk magnitude.
 
-fbodybodygyromagstd  
+frequencybodybodygyromagstd  
 &nbsp;&nbsp;-1..1 Standard deviation of frequency domain signals three-dimensional body gyroscope magnitude.
 
-fbodybodygyrojerkmagstd  
+frequencybodybodygyrojerkmagstd  
 &nbsp;&nbsp;-1..1 Standard deviation of frequency domain signals three-dimensional body gyroscope jerk magnitude.

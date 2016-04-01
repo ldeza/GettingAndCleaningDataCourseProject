@@ -20,21 +20,21 @@ https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Datas
 
 INSTRUCTIONS ON PREPARING THE TIDY DATA SET
 
-1. Download the data zip file and unzip in a directory on your machine. Take note of the absolute path the data is extracted in.
-2. Clone the repository and copy run_analysis.R into the absolute path in step 1
-3. Open up R Studio and change the working directory to the absolute path in step 1 by running:
+* Download the data zip file and unzip in a directory on your machine. Take note of the absolute path the data is extracted in.
+* Clone the repository and copy run_analysis.R into the absolute path in step 1
+* Open up R Studio and change the working directory to the absolute path in step 1 by running:
 
 setwd('/absolute/path/step/1')
 
-4. In R Studio, execute the R Script by running: 
+* In R Studio, execute the R Script by running: 
 
 source('run_analysis.R')
 
-5. In R Studio, you can view the tidy data set by running: 
+* In R Studio, you can view the tidy data set by running: 
 
 View(tidy_mean_std_df)
 
-6. In R Studio, you can write the tidy data set data frame to a file called 'tidy_getting_and_cleaning_data_project.txt' by running: 
+* In R Studio, you can write the tidy data set data frame to a file called 'tidy_getting_and_cleaning_data_project.txt' by running: 
 
 write.table(tidy_mean_std_df, file = "tidy_getting_and_cleaning_data_project.txt", quote = FALSE, row.names = FALSE, sep = " ")
 

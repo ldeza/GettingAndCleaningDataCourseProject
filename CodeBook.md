@@ -27,7 +27,7 @@ activity
     6 LAYING
 
 tbodyaccmeanx
-    -1..1 Mean value of time domain signals body acceleration in the X direction.
+    -1 to 1 Mean value of time domain signals body acceleration in the X direction.
 
 tbodyaccmeany
     -1..1 Mean value of time domain signals body acceleration in the Y direction.

@@ -16,15 +16,15 @@ The goal of run_analysis.R is as follows:
 The features relating to mean and standard deviation has been normalized and bounded within [-1,1]
 
 subject  
-> 1..30 Identifies the subject who performed the activity for each window sample. There are a total of 30 subjects.
+&nbsp;&nbsp;1..30 Identifies the subject who performed the activity for each window sample. There are a total of 30 subjects.
 
 activity  
-    1 WALKING  
-    2 WALKING_UPSTAIRS  
-    3 WALKING_DOWNSTAIRS  
-    4 SITTING  
-    5 STANDING  
-    6 LAYING  
+&nbsp;&nbsp;1 WALKING  
+&nbsp;&nbsp;2 WALKING_UPSTAIRS  
+&nbsp;&nbsp;3 WALKING_DOWNSTAIRS  
+&nbsp;&nbsp;4 SITTING  
+&nbsp;&nbsp;5 STANDING  
+&nbsp;&nbsp;6 LAYING  
 
 tbodyaccmeanx  
     -1..1 Mean value of time domain signals body acceleration in the X direction.

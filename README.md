@@ -39,3 +39,7 @@ View(tidy_mean_std_df)
 write.table(tidy_mean_std_df, file = "tidy_getting_and_cleaning_data_project.txt", quote = FALSE, row.names = FALSE, sep = " ")
 
 Note: CodeBook.md has markdown specific notation and is best view through the github portal rather than the raw file
+
+Contributors:
+
+Leo Deza - Course project author

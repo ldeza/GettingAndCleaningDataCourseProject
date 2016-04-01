@@ -20,7 +20,10 @@ INSTRUCTIONS ON PREPARING THE DATA SET
 
 1. Download the data zip file and unzip in a directory on your machine. Take note of the absolute path the data is extracted in.
 2. Clone the repository and copy run_analysis.R into the absolute path in step 1
-3. Open up R Studio and change the working directory using setwd() to the absolute path in step 1
+3. Open up R Studio and change the working directory to the absolute path in step 1 by running:
+
+setwd('/absolute/path/step/1')
+
 4. In R Studio, execute the R Script by running: 
 
 source('run_analysis.R')

@@ -15,10 +15,15 @@ features_df <- read.table(features_file, header=FALSE, strip.white=TRUE)
 
 #Extract the second column from features.txt as those are the column names
 #Clean up non-alphanumeric characters through substitution
+#Rename t to time as it indicates time domain measures
+#Rename f to frequency as it indicates frequency domain measures
 f1 <- gsub("-","",features_df$V2)
 f2 <- gsub("\\(","",f1)
 f3 <- gsub(")","",f2)
 f4 <- gsub(",","", f3)
+f5 <- gsub("^t","time", f4)
+f6 <- gsub("^f", "frequency", f5)
+f7 <- gsub("^anglet", "angletime", f6)
 
 #This satisfies goal 4
 #Appropriately labels the data set with descriptive variable names
@@ -28,7 +33,7 @@ f4 <- gsub(",","", f3)
 #
 #Coerce as a character vector to be used as descriptive variable names passed
 #to col.names when creating the train and test data frames
-column_names <- tolower(as.character(f4))
+column_names <- tolower(as.character(f7))
 
 #Generate the training set activity labels data frame from y_train.txt
 #We will column bind this to the training observations data set

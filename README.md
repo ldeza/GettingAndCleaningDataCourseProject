@@ -12,6 +12,8 @@ One of the requirements is to create an R Script called run_analysis.R which doe
 
 Other requirements are to create a CodeBook.md file describing the tidy data set and a README.md file which describes how to execute run_analysis.R
 
+The R script run_analysis.R has comments describing the commands being executed. Please refer directly to the script for more details.
+
 The project uses the following data set.
 
 https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
@@ -35,3 +37,5 @@ View(tidy_mean_std_df)
 6. In R Studio, you can write the tidy data set frame to a file called 'tidy_getting_and_cleaning_data_project.txt' by running: 
 
 write.table(tidy_mean_std_df, file = "tidy_getting_and_cleaning_data_project.txt", quote = FALSE, row.names = FALSE, sep = " ")
+
+Note: CodeBook.md has markdown specific notation and is best view through the github portal rather than the raw file
